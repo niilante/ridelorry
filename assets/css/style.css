@@ -1,0 +1,1403 @@
+.body {
+    position: absolute;
+    left: 0px;
+    top: 1px;
+    width: 1366px;
+    height: 4325px;
+    z-index: 150;
+  }
+  .Experiences_img_div {
+    background-color: rgb(0, 0, 0);
+    position: absolute;
+    left: 889px;
+    top: 2931px;
+    width: 355px;
+    height: 258px;
+    z-index: 148;
+  }
+  .W_E_B__Du_Bois_Memorial_Centre {
+    font-size: 23px;
+    font-family: "Helvetica";
+    color: rgb(1, 0, 0);
+    line-height: 3.135;
+    text-align: right;
+    -moz-transform: matrix( 0.9091807911004,0,0,0.90727422743835,0,0);
+    -webkit-transform: matrix( 0.9091807911004,0,0,0.90727422743835,0,0);
+    -ms-transform: matrix( 0.9091807911004,0,0,0.90727422743835,0,0);
+    position: absolute;
+    left: 908.938px;
+    top: 3183.005px;
+    z-index: 147;
+  }
+  .Experiences_img_div {
+    background-color: rgb(0, 0, 0);
+    position: absolute;
+    left: 496px;
+    top: 2931px;
+    width: 355px;
+    height: 258px;
+    z-index: 145;
+  }
+  .Mt__Afadjato {
+    font-size: 23px;
+    font-family: "Helvetica";
+    color: rgb(1, 0, 0);
+    line-height: 3.135;
+    text-align: right;
+    -moz-transform: matrix( 0.9091807911004,0,0,0.90727422743835,0,0);
+    -webkit-transform: matrix( 0.9091807911004,0,0,0.90727422743835,0,0);
+    -ms-transform: matrix( 0.9091807911004,0,0,0.90727422743835,0,0);
+    position: absolute;
+    left: 613.498px;
+    top: 3254.77px;
+    z-index: 143;
+  }
+  .Experiences_img_div {
+    background-color: rgb(0, 0, 0);
+    position: absolute;
+    left: 93px;
+    top: 2931px;
+    width: 355px;
+    height: 258px;
+    z-index: 141;
+  }
+  .The_Larabanga_Mosque {
+    font-size: 23px;
+    font-family: "Helvetica";
+    color: rgb(1, 0, 0);
+    line-height: 3.135;
+    text-align: right;
+    -moz-transform: matrix( 0.9091807911004,0,0,0.90727422743835,0,0);
+    -webkit-transform: matrix( 0.9091807911004,0,0,0.90727422743835,0,0);
+    -ms-transform: matrix( 0.9091807911004,0,0,0.90727422743835,0,0);
+    position: absolute;
+    left: 158.535px;
+    top: 3254.77px;
+    z-index: 138;
+  }
+  .Experiences_img_div {
+    background-color: rgb(0, 0, 0);
+    position: absolute;
+    left: 889px;
+    top: 2559px;
+    width: 355px;
+    height: 258px;
+    z-index: 136;
+  }
+  .Kwame_Nkrumah_Mausoleum {
+    font-size: 23px;
+    font-family: "Helvetica";
+    color: rgb(1, 0, 0);
+    line-height: 3.135;
+    text-align: right;
+    -moz-transform: matrix( 0.9091807911004,0,0,0.90727422743835,0,0);
+    -webkit-transform: matrix( 0.9091807911004,0,0,0.90727422743835,0,0);
+    -ms-transform: matrix( 0.9091807911004,0,0,0.90727422743835,0,0);
+    position: absolute;
+    left: 918.476px;
+    top: 2811.005px;
+    z-index: 135;
+  }
+  .Experiences_img_div {
+    background-color: rgb(0, 0, 0);
+    position: absolute;
+    left: 496px;
+    top: 2559px;
+    width: 355px;
+    height: 258px;
+    z-index: 133;
+  }
+  .Kakum_National_Park {
+    font-size: 23px;
+    font-family: "Helvetica";
+    color: rgb(1, 0, 0);
+    line-height: 3.135;
+    text-align: right;
+    -moz-transform: matrix( 0.9091807911004,0,0,0.90727422743835,0,0);
+    -webkit-transform: matrix( 0.9091807911004,0,0,0.90727422743835,0,0);
+    -ms-transform: matrix( 0.9091807911004,0,0,0.90727422743835,0,0);
+    position: absolute;
+    left: 565.352px;
+    top: 2811.005px;
+    z-index: 131;
+  }
+  .Experiences_img_div {
+    background-color: rgb(0, 0, 0);
+    position: absolute;
+    left: 93px;
+    top: 2559px;
+    width: 355px;
+    height: 258px;
+    z-index: 129;
+  }
+  .Experiences_border_boxline {
+    background-image: url("Experiences border boxline.png");
+    position: absolute;
+    left: 25px;
+    top: 2498px;
+    width: 1297px;
+    height: 827px;
+    z-index: 128;
+  }
+  .Experiences_map_loc_name {
+    font-size: 18.37px;
+    font-family: "Museo";
+    color: rgb(112, 112, 112);
+    line-height: 3.919;
+    text-align: right;
+    -moz-transform: matrix( 0.9091807911004,0,0,0.90727422743835,0,0);
+    -webkit-transform: matrix( 0.9091807911004,0,0,0.90727422743835,0,0);
+    -ms-transform: matrix( 0.9091807911004,0,0,0.90727422743835,0,0);
+    position: absolute;
+    left: 1026.749px;
+    top: 3210.004px;
+    z-index: 124;
+  }
+  .Volta_Region {
+    font-size: 18.37px;
+    font-family: "Museo";
+    color: rgb(112, 112, 112);
+    line-height: 3.919;
+    text-align: right;
+    -moz-transform: matrix( 0.9091807911004,0,0,0.90727422743835,0,0);
+    -webkit-transform: matrix( 0.9091807911004,0,0,0.90727422743835,0,0);
+    -ms-transform: matrix( 0.9091807911004,0,0,0.90727422743835,0,0);
+    position: absolute;
+    left: 635.47px;
+    top: 3281.575px;
+    z-index: 122;
+  }
+  .Greater_Accra {
+    font-size: 18.37px;
+    font-family: "Museo";
+    color: rgb(112, 112, 112);
+    line-height: 3.919;
+    text-align: right;
+    -moz-transform: matrix( 0.9091807911004,0,0,0.90727422743835,0,0);
+    -webkit-transform: matrix( 0.9091807911004,0,0,0.90727422743835,0,0);
+    -ms-transform: matrix( 0.9091807911004,0,0,0.90727422743835,0,0);
+    position: absolute;
+    left: 1026.749px;
+    top: 2836.004px;
+    z-index: 119;
+  }
+  .Experiences_map_loc_name {
+    font-size: 18.37px;
+    font-family: "Museo";
+    color: rgb(112, 112, 112);
+    line-height: 3.919;
+    text-align: right;
+    -moz-transform: matrix( 0.9091807911004,0,0,0.90727422743835,0,0);
+    -webkit-transform: matrix( 0.9091807911004,0,0,0.90727422743835,0,0);
+    -ms-transform: matrix( 0.9091807911004,0,0,0.90727422743835,0,0);
+    position: absolute;
+    left: 624.438px;
+    top: 2907.575px;
+    z-index: 117;
+  }
+  .Northern_Region {
+    font-size: 18.37px;
+    font-family: "Museo";
+    color: rgb(112, 112, 112);
+    line-height: 3.919;
+    text-align: right;
+    -moz-transform: matrix( 0.9091807911004,0,0,0.90727422743835,0,0);
+    -webkit-transform: matrix( 0.9091807911004,0,0,0.90727422743835,0,0);
+    -ms-transform: matrix( 0.9091807911004,0,0,0.90727422743835,0,0);
+    position: absolute;
+    left: 216.017px;
+    top: 3282.575px;
+    z-index: 115;
+  }
+  .Experiences_map_loc_name {
+    font-size: 18.37px;
+    font-family: "Museo";
+    color: rgb(112, 112, 112);
+    line-height: 3.919;
+    text-align: right;
+    -moz-transform: matrix( 0.9091807911004,0,0,0.90727422743835,0,0);
+    -webkit-transform: matrix( 0.9091807911004,0,0,0.90727422743835,0,0);
+    -ms-transform: matrix( 0.9091807911004,0,0,0.90727422743835,0,0);
+    position: absolute;
+    left: 216.438px;
+    top: 2907.575px;
+    z-index: 114;
+  }
+  .Elmina_Castle {
+    font-size: 23px;
+    font-family: "Helvetica";
+    color: rgb(1, 0, 0);
+    line-height: 3.135;
+    text-align: right;
+    -moz-transform: matrix( 0.9091807911004,0,0,0.90727422743835,0,0);
+    -webkit-transform: matrix( 0.9091807911004,0,0,0.90727422743835,0,0);
+    -ms-transform: matrix( 0.9091807911004,0,0,0.90727422743835,0,0);
+    position: absolute;
+    left: 195.284px;
+    top: 2811.005px;
+    z-index: 113;
+  }
+  .Experiences_heading {
+    font-size: 44px;
+    font-family: "Helvetica";
+    color: rgb(1, 0, 0);
+    font-weight: bold;
+    text-transform: uppercase;
+    line-height: 1.639;
+    text-align: right;
+    -moz-transform: matrix( 0.9091807911004,0,0,0.90727422743835,0,0);
+    -webkit-transform: matrix( 0.9091807911004,0,0,0.90727422743835,0,0);
+    -ms-transform: matrix( 0.9091807911004,0,0,0.90727422743835,0,0);
+    position: absolute;
+    left: 544.864px;
+    top: 2459.99px;
+    z-index: 112;
+  }
+  .Layer_9 {
+    background-image: url("Layer 9.png");
+    position: absolute;
+    left: 230px;
+    top: 373px;
+    width: 40px;
+    height: 24px;
+    z-index: 111;
+  }
+  .FIND_CAR {
+    font-size: 25px;
+    font-family: "Helvetica";
+    color: rgb(27, 27, 27);
+    font-weight: bold;
+    line-height: 1.305;
+    text-align: center;
+    -moz-transform: matrix( 0.91497101250332,0,0,0.91497101250332,0,0);
+    -webkit-transform: matrix( 0.91497101250332,0,0,0.91497101250332,0,0);
+    -ms-transform: matrix( 0.91497101250332,0,0,0.91497101250332,0,0);
+    position: absolute;
+    left: 255.935px;
+    top: 699.188px;
+    z-index: 110;
+  }
+  .CARS {
+    font-size: 25px;
+    font-family: "Helvetica";
+    color: rgb(0, 0, 0);
+    font-weight: bold;
+    line-height: 1.305;
+    text-align: center;
+    position: absolute;
+    left: 281px;
+    top: 369.688px;
+    z-index: 109;
+  }
+  .Rectangle_46_copy {
+    background-color: rgb(235, 235, 235);
+    position: absolute;
+    left: 123px;
+    top: 356px;
+    width: 376px;
+    height: 54px;
+    z-index: 108;
+  }
+  .Number_of_Passengers {
+    font-size: 16.667px;
+    font-family: "Helvetica";
+    color: rgb(87, 87, 87);
+    line-height: 1.957;
+    text-align: center;
+    position: absolute;
+    left: 187px;
+    top: 618.333px;
+    z-index: 107;
+  }
+  .Pick_up_location {
+    font-size: 16.667px;
+    font-family: "Helvetica";
+    color: rgb(87, 87, 87);
+    line-height: 1.957;
+    text-align: center;
+    position: absolute;
+    left: 190px;
+    top: 463.333px;
+    z-index: 106;
+  }
+  .Enter_of_Passengers {
+    font-size: 18.667px;
+    font-family: "Helvetica";
+    color: rgba(153, 153, 153, 0.302);
+    line-height: 1.747;
+    text-align: center;
+    position: absolute;
+    left: 187px;
+    top: 656.594px;
+    z-index: 105;
+  }
+  .Rectangle_47_copy_2 {
+    border-width: 0.73px;
+    border-color: rgb(183, 183, 183);
+    border-style: solid;
+    position: absolute;
+    left: 171px;
+    top: 617px;
+    width: 288px;
+    height: 47px;
+    z-index: 103;
+  }
+  .Enter_destination {
+    font-size: 18.667px;
+    font-family: "Helvetica";
+    color: rgba(153, 153, 153, 0.302);
+    line-height: 1.747;
+    text-align: center;
+    position: absolute;
+    left: 188px;
+    top: 528.694px;
+    z-index: 102;
+  }
+  .Rectangle_47_copy {
+    border-width: 0.73px;
+    border-color: rgb(183, 183, 183);
+    border-style: solid;
+    position: absolute;
+    left: 171px;
+    top: 522px;
+    width: 288px;
+    height: 47px;
+    z-index: 100;
+  }
+  .Enter_pick_up_location {
+    font-size: 18.667px;
+    font-family: "Helvetica";
+    color: rgba(153, 153, 153, 0.302);
+    line-height: 1.747;
+    text-align: center;
+    position: absolute;
+    left: 187px;
+    top: 505.594px;
+    z-index: 99;
+  }
+  .Rectangle_47 {
+    border-width: 0.73px;
+    border-color: rgb(183, 183, 183);
+    border-style: solid;
+    position: absolute;
+    left: 171px;
+    top: 467px;
+    width: 288px;
+    height: 46px;
+    z-index: 97;
+  }
+  .Rectangle_48 {
+    background-color: rgb(255, 199, 9);
+    position: absolute;
+    left: 249px;
+    top: 694px;
+    width: 123px;
+    height: 43px;
+    z-index: 96;
+  }
+  .Rectangle_46 {
+    border-style: solid;
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    background-color: rgb(255, 255, 255);
+    opacity: 0.13;
+    box-shadow: 0px 5px 8px 0px rgba(0, 0, 0, 0.08);
+    position: absolute;
+    left: 123px;
+    top: 358px;
+    width: 374px;
+    height: 415px;
+    z-index: 95;
+  }
+  .footer_Media____________Find_a_City {
+    font-size: 16px;
+    font-family: "Museo";
+    color: rgb(251, 251, 251);
+    line-height: 2.086;
+    text-align: right;
+    -moz-transform: matrix( 0.95637198622273,0,0,0.95634351301496,0,0);
+    -webkit-transform: matrix( 0.95637198622273,0,0,0.95634351301496,0,0);
+    -ms-transform: matrix( 0.95637198622273,0,0,0.95634351301496,0,0);
+    position: absolute;
+    left: 530.017px;
+    top: 4203.682px;
+    z-index: 94;
+  }
+  .footer_Experiences {
+    font-size: 16px;
+    font-family: "Museo";
+    color: rgb(251, 251, 251);
+    line-height: 0.524;
+    text-align: center;
+    -moz-transform: matrix( 0.95637198622273,0,0,0.95634351301496,0,0);
+    -webkit-transform: matrix( 0.95637198622273,0,0,0.95634351301496,0,0);
+    -ms-transform: matrix( 0.95637198622273,0,0,0.95634351301496,0,0);
+    position: absolute;
+    left: 530.677px;
+    top: 4144.998px;
+    z-index: 93;
+  }
+  .footer_Cars {
+    font-size: 16px;
+    font-family: "Museo";
+    color: rgb(251, 251, 251);
+    line-height: 0.524;
+    text-align: center;
+    -moz-transform: matrix( 0.95637198622273,0,0,0.95634351301496,0,0);
+    -webkit-transform: matrix( 0.95637198622273,0,0,0.95634351301496,0,0);
+    -ms-transform: matrix( 0.95637198622273,0,0,0.95634351301496,0,0);
+    position: absolute;
+    left: 697.684px;
+    top: 4091.308px;
+    z-index: 92;
+  }
+  .footer_Pricing {
+    font-size: 16px;
+    font-family: "Museo";
+    color: rgb(255, 199, 9);
+    line-height: 0.524;
+    text-align: center;
+    -moz-transform: matrix( 0.95637198622273,0,0,0.95634351301496,0,0);
+    -webkit-transform: matrix( 0.95637198622273,0,0,0.95634351301496,0,0);
+    -ms-transform: matrix( 0.95637198622273,0,0,0.95634351301496,0,0);
+    position: absolute;
+    left: 812.001px;
+    top: 4101.093px;
+    z-index: 91;
+  }
+  .footer_Safety____Our_Story {
+    font-size: 16px;
+    font-family: "Museo";
+    color: rgb(251, 251, 251);
+    line-height: 2.086;
+    text-align: right;
+    position: absolute;
+    left: 694.1px;
+    top: 4165.713px;
+    width: 183px;
+    height: 15px;
+    z-index: 90;
+  }
+  .footer_How_it_works {
+    font-size: 16px;
+    font-family: "Museo";
+    color: rgb(251, 251, 251);
+    line-height: 0.524;
+    text-align: center;
+    -moz-transform: matrix( 0.95637198622273,0,0,0.95634351301496,0,0);
+    -webkit-transform: matrix( 0.95637198622273,0,0,0.95634351301496,0,0);
+    -ms-transform: matrix( 0.95637198622273,0,0,0.95634351301496,0,0);
+    position: absolute;
+    left: 531.228px;
+    top: 4091.308px;
+    z-index: 89;
+  }
+  .footer_button_rectangle_Sign_up_to_Ride_copy {
+    font-size: 25px;
+    font-family: "Museo";
+    color: rgb(255, 255, 255);
+    line-height: 7.937;
+    text-align: center;
+    position: absolute;
+    left: 1037.337px;
+    top: 4234.321px;
+    z-index: 88;
+  }
+  .footer_button_rectangle_outline {
+    border-width: 1px;
+    border-color: rgb(241, 241, 241);
+    border-style: solid;
+    position: absolute;
+    left: 1018px;
+    top: 4106px;
+    width: 238px;
+    height: 55px;
+    z-index: 86;
+  }
+  .footer_hr {
+    background-color: rgb(91, 91, 91);
+    opacity: 0.361;
+    position: absolute;
+    left: -4px;
+    top: 4267px;
+    width: 1419px;
+    height: 1px;
+    z-index: 84;
+  }
+  .footer_Copyright__c__2018______Ride_Lorry_Ghana {
+    font-size: 12px;
+    font-family: "Lato";
+    color: rgb(145, 145, 145);
+    line-height: 2.134;
+    position: absolute;
+    left: 118.437px;
+    top: 4303.569px;
+    z-index: 83;
+  }
+  .footer {
+    background-color: rgb(0, 0, 0);
+    position: absolute;
+    left: -12px;
+    top: 3981px;
+    width: 1390px;
+    height: 449px;
+    z-index: 82;
+  }
+  .faq_Search_frequently_asked_questions {
+    font-size: 20px;
+    font-family: "Helvetica";
+    color: rgba(255, 255, 255, 0.4);
+    line-height: 1.2;
+    text-align: left;
+    -moz-transform: matrix( 0.8061919504644,0,0,0.80627306273063,0,0);
+    -webkit-transform: matrix( 0.8061919504644,0,0,0.80627306273063,0,0);
+    -ms-transform: matrix( 0.8061919504644,0,0,0.80627306273063,0,0);
+    position: absolute;
+    left: 187.063px;
+    top: 3497.45px;
+    z-index: 80;
+  }
+  .faq_search_underline {
+    border-width: 2px;
+    border-color: rgb(255, 255, 255);
+    border-style: solid;
+    background-color: rgb(255, 255, 255);
+    opacity: 0.102;
+    position: absolute;
+    left: 159px;
+    top: 3543px;
+    width: 471px;
+    height: 0;
+    z-index: 79;
+  }
+  .faq_When_will_the_policy_not_pay_out_ {
+    font-size: 24px;
+    font-family: "Helvetica";
+    color: rgb(255, 255, 255);
+    text-transform: uppercase;
+    line-height: 1.292;
+    text-align: left;
+    -moz-transform: matrix( 0.8061919504644,0,0,0.80627306273063,0,0);
+    -webkit-transform: matrix( 0.8061919504644,0,0,0.80627306273063,0,0);
+    -ms-transform: matrix( 0.8061919504644,0,0,0.80627306273063,0,0);
+    position: absolute;
+    left: 121.25px;
+    top: 3918.899px;
+    width: 460.5px;
+    height: 18px;
+    z-index: 78;
+  }
+  .faq_Why_was_my_payment_declined_ {
+    font-size: 24px;
+    font-family: "Helvetica";
+    color: rgb(255, 255, 255);
+    text-transform: uppercase;
+    line-height: 1.137;
+    text-align: left;
+    -moz-transform: matrix( 0.8061919504644,0,0,0.80627306273063,0,0);
+    -webkit-transform: matrix( 0.8061919504644,0,0,0.80627306273063,0,0);
+    -ms-transform: matrix( 0.8061919504644,0,0,0.80627306273063,0,0);
+    position: absolute;
+    left: 124.75px;
+    top: 3852.178px;
+    width: 415.5px;
+    height: 18px;
+    z-index: 77;
+  }
+  .faq_Updating_a_payment_method_on_your_account {
+    font-size: 24px;
+    font-family: "Helvetica";
+    color: rgb(255, 255, 255);
+    text-transform: uppercase;
+    line-height: 1.292;
+    text-align: left;
+    -moz-transform: matrix( 0.8061919504644,0,0,0.80627306273063,0,0);
+    -webkit-transform: matrix( 0.8061919504644,0,0,0.80627306273063,0,0);
+    -ms-transform: matrix( 0.8061919504644,0,0,0.80627306273063,0,0);
+    position: absolute;
+    left: 106px;
+    top: 3800.899px;
+    width: 609px;
+    height: 18px;
+    z-index: 76;
+  }
+  .faq_How_long_should_I_wait_for_a_rider_ {
+    font-size: 24px;
+    font-family: "Helvetica";
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+    text-transform: uppercase;
+    line-height: 1.965;
+    text-align: left;
+    -moz-transform: matrix( 0.8061919504644,0,0,0.80627306273063,0,0);
+    -webkit-transform: matrix( 0.8061919504644,0,0,0.80627306273063,0,0);
+    -ms-transform: matrix( 0.8061919504644,0,0,0.80627306273063,0,0);
+    position: absolute;
+    left: 118px;
+    top: 3742.011px;
+    width: 479px;
+    height: 18px;
+    z-index: 75;
+  }
+  .faq_Using_promos_and_credits {
+    font-size: 24px;
+    font-family: "Helvetica";
+    color: rgb(255, 255, 255);
+    text-transform: uppercase;
+    line-height: 0.568;
+    text-align: left;
+    -moz-transform: matrix( 0.8061919504644,0,0,0.80627306273063,0,0);
+    -webkit-transform: matrix( 0.8061919504644,0,0,0.80627306273063,0,0);
+    -ms-transform: matrix( 0.8061919504644,0,0,0.80627306273063,0,0);
+    position: absolute;
+    left: 124px;
+    top: 3645.535px;
+    width: 354px;
+    height: 18px;
+    z-index: 74;
+  }
+  .faq_selected {
+    background-color: rgb(255, 255, 255);
+    opacity: 0.102;
+    position: absolute;
+    left: -9px;
+    top: 3672px;
+    width: 716px;
+    height: 69px;
+    z-index: 72;
+  }
+  .faq_scroll_Handle {
+    border-radius: 4px;
+    background-color: rgb(255, 255, 255);
+    position: absolute;
+    left: 690px;
+    top: 3569px;
+    width: 8px;
+    height: 111px;
+    z-index: 71;
+  }
+  .faq_scroll_Mask {
+    background-color: rgb(255, 244, 223);
+    opacity: 0.102;
+    position: absolute;
+    left: 690px;
+    top: 3570px;
+    width: 7px;
+    height: 375px;
+    z-index: 70;
+  }
+  .faq_bg_gray_left {
+    background-color: rgb(146, 146, 146);
+    position: absolute;
+    left: -23px;
+    top: 3466px;
+    width: 731px;
+    height: 531px;
+    z-index: 69;
+  }
+  .faq_How_long_should_I_wait_for_a_rider_ {
+    font-size: 44.278px;
+    font-family: "Helvetica";
+    color: rgb(71, 71, 71);
+    text-transform: uppercase;
+    line-height: 1.064;
+    text-align: left;
+    -moz-transform: matrix( 0.8061919504644,0,0,0.80627306273063,0,0);
+    -webkit-transform: matrix( 0.8061919504644,0,0,0.80627306273063,0,0);
+    -ms-transform: matrix( 0.8061919504644,0,0,0.80627306273063,0,0);
+    position: absolute;
+    left: 704.5px;
+    top: 3574.546px;
+    width: 562px;
+    height: 81.13px;
+    z-index: 68;
+  }
+  .faq_Lorem_ipsum_dolor_sit_amet__consectetur_adi {
+    font-size: 21px;
+    font-family: "Helvetica";
+    color: rgba(0, 0, 0, 0.8);
+    line-height: 1.613;
+    text-align: justifyLeft;
+    -moz-transform: matrix( 0.8061919504644,0,0,0.80627306273063,0,0);
+    -webkit-transform: matrix( 0.8061919504644,0,0,0.80627306273063,0,0);
+    -ms-transform: matrix( 0.8061919504644,0,0,0.80627306273063,0,0);
+    position: absolute;
+    left: 696.31px;
+    top: 3642.896px;
+    width: 643.536px;
+    height: 325px;
+    z-index: 67;
+  }
+  .Rectangle_17_copy_4 {
+    background-color: rgb(255, 255, 255);
+    position: absolute;
+    left: 1075px;
+    top: 3272px;
+    width: 1px;
+    height: 94px;
+    z-index: 66;
+  }
+  .Rectangle_17_copy_3 {
+    background-color: rgb(255, 255, 255);
+    position: absolute;
+    left: 846px;
+    top: 3272px;
+    width: 1px;
+    height: 94px;
+    z-index: 65;
+  }
+  .Rectangle_17_copy_2 {
+    background-color: rgb(255, 255, 255);
+    position: absolute;
+    left: 634px;
+    top: 3272px;
+    width: 1px;
+    height: 94px;
+    z-index: 64;
+  }
+  .Rectangle_17_copy {
+    background-color: rgb(255, 255, 255);
+    position: absolute;
+    left: 406px;
+    top: 3265px;
+    width: 1px;
+    height: 94px;
+    z-index: 63;
+  }
+  .Rectangle_17 {
+    background-color: rgb(255, 255, 255);
+    position: absolute;
+    left: 189px;
+    top: 3265px;
+    width: 1px;
+    height: 94px;
+    z-index: 62;
+  }
+  .Rectangle_17_copy_4 {
+    background-color: rgb(255, 255, 255);
+    position: absolute;
+    left: 1100px;
+    top: 3265px;
+    width: 1px;
+    height: 94px;
+    z-index: 61;
+  }
+  .Rectangle_17_copy_3 {
+    background-color: rgb(255, 255, 255);
+    position: absolute;
+    left: 871px;
+    top: 3265px;
+    width: 1px;
+    height: 94px;
+    z-index: 60;
+  }
+  .Rectangle_17_copy_2 {
+    background-color: rgb(255, 255, 255);
+    position: absolute;
+    left: 659px;
+    top: 3265px;
+    width: 1px;
+    height: 94px;
+    z-index: 59;
+  }
+  .faq_FREQUENTLY_ASKED_QUESTIONS {
+    font-size: 44px;
+    font-family: "Museo";
+    color: rgb(1, 0, 0);
+    text-transform: uppercase;
+    line-height: 1.639;
+    text-align: right;
+    -moz-transform: matrix( 0.9091807911004,0,0,0.90727422743835,0,0);
+    -webkit-transform: matrix( 0.9091807911004,0,0,0.90727422743835,0,0);
+    -ms-transform: matrix( 0.9091807911004,0,0,0.90727422743835,0,0);
+    position: absolute;
+    left: 351.563px;
+    top: 3449.935px;
+    z-index: 58;
+  }
+  .gettyimage_Get_the_Lowest_rate_with {
+    font-size: 24px;
+    font-family: "Museo";
+    color: rgb(255, 255, 255);
+    line-height: 3;
+    text-align: right;
+    -moz-transform: matrix( 0.92824743795788,0,0,0.91406806063806,0,0);
+    -webkit-transform: matrix( 0.92824743795788,0,0,0.91406806063806,0,0);
+    -ms-transform: matrix( 0.92824743795788,0,0,0.91406806063806,0,0);
+    position: absolute;
+    left: 136.832px;
+    top: 2217px;
+    z-index: 56;
+  }
+  .gettyimage_Anywhere__anytime {
+    font-size: 72px;
+    font-family: "Museo";
+    color: rgb(255, 199, 9);
+    text-transform: uppercase;
+    line-height: 1;
+    text-align: right;
+    -moz-transform: matrix( 0.96250951430712,0,0,0.96190002862919,0,0);
+    -webkit-transform: matrix( 0.96250951430712,0,0,0.96190002862919,0,0);
+    -ms-transform: matrix( 0.96250951430712,0,0,0.96190002862919,0,0);
+    position: absolute;
+    left: 141.387px;
+    top: 2163.301px;
+    z-index: 55;
+  }
+  .gettyimage_bg {
+    background-color: rgb(0, 0, 2);
+    position: absolute;
+    left: -24px;
+    top: 1943px;
+    width: 1472px;
+    height: 481px;
+    z-index: 53;
+  }
+  ._250___Gas_12_hours_with_a_driver___150___Gas_A {
+    font-size: 18px;
+    font-family: "Helvetica";
+    color: rgb(0, 0, 0);
+    line-height: 1.167;
+    text-align: center;
+    -moz-transform: matrix( 0.90743658711244,0,0,0.90744920993228,0,0);
+    -webkit-transform: matrix( 0.90743658711244,0,0,0.90744920993228,0,0);
+    -ms-transform: matrix( 0.90743658711244,0,0,0.90744920993228,0,0);
+    position: absolute;
+    left: 986.623px;
+    top: 1783.067px;
+    width: 282.998px;
+    height: 60.094px;
+    z-index: 52;
+  }
+  .PREMUIM_CARS {
+    font-size: 33px;
+    font-family: "Helvetica";
+    color: rgb(1, 0, 0);
+    text-transform: uppercase;
+    line-height: 2.177;
+    text-align: right;
+    -moz-transform: matrix( 0.82502391414434,0,0,0.82330528088085,0,0);
+    -webkit-transform: matrix( 0.82502391414434,0,0,0.82330528088085,0,0);
+    -ms-transform: matrix( 0.82502391414434,0,0,0.82330528088085,0,0);
+    position: absolute;
+    left: 1023.975px;
+    top: 1495.008px;
+    z-index: 51;
+  }
+  .pricing_toyota {
+    background-image: url("pricing toyota.png");
+    position: absolute;
+    left: 521px;
+    top: 1587px;
+    width: 335px;
+    height: 135px;
+    z-index: 50;
+  }
+  ._100___Gas_12_hours_with_a_driver__50__Gas_Airp {
+    font-size: 18px;
+    font-family: "Helvetica";
+    color: rgb(0, 0, 0);
+    line-height: 1.167;
+    text-align: center;
+    -moz-transform: matrix( 0.90743658711244,0,0,0.90744920993228,0,0);
+    -webkit-transform: matrix( 0.90743658711244,0,0,0.90744920993228,0,0);
+    -ms-transform: matrix( 0.90743658711244,0,0,0.90744920993228,0,0);
+    position: absolute;
+    left: 86.79px;
+    top: 1784.067px;
+    width: 267.707px;
+    height: 60.094px;
+    z-index: 49;
+  }
+  .pricing_infiniti {
+    background-image: url("pricing infiniti.png");
+    position: absolute;
+    left: 963px;
+    top: 1579px;
+    width: 328px;
+    height: 152px;
+    z-index: 48;
+  }
+  .pricing_kia {
+    background-image: url("pricing kia.png");
+    position: absolute;
+    left: 110px;
+    top: 1573px;
+    width: 267px;
+    height: 163px;
+    z-index: 47;
+  }
+  ._150___Gas_12_hours_with_a_driver___75___Gas_Ai {
+    font-size: 18px;
+    font-family: "Helvetica";
+    color: rgb(0, 0, 0);
+    line-height: 1.167;
+    text-align: center;
+    -moz-transform: matrix( 0.90743658711244,0,0,0.90744920993228,0,0);
+    -webkit-transform: matrix( 0.90743658711244,0,0,0.90744920993228,0,0);
+    -ms-transform: matrix( 0.90743658711244,0,0,0.90744920993228,0,0);
+    position: absolute;
+    left: 554.623px;
+    top: 1783.067px;
+    width: 272.199px;
+    height: 60.094px;
+    z-index: 46;
+  }
+  .STANDARD_CARS {
+    font-size: 33px;
+    font-family: "Helvetica";
+    color: rgb(1, 0, 0);
+    font-weight: bold;
+    text-transform: uppercase;
+    line-height: 2.177;
+    text-align: right;
+    -moz-transform: matrix( 0.82502391414434,0,0,0.82330528088085,0,0);
+    -webkit-transform: matrix( 0.82502391414434,0,0,0.82330528088085,0,0);
+    -ms-transform: matrix( 0.82502391414434,0,0,0.82330528088085,0,0);
+    position: absolute;
+    left: 560.463px;
+    top: 1495.008px;
+    z-index: 45;
+  }
+  .ECONOMY_CARS {
+    font-size: 33px;
+    font-family: "Helvetica";
+    color: rgb(1, 0, 0);
+    text-transform: uppercase;
+    line-height: 2.177;
+    text-align: right;
+    -moz-transform: matrix( 0.82502391414434,0,0,0.82330528088085,0,0);
+    -webkit-transform: matrix( 0.82502391414434,0,0,0.82330528088085,0,0);
+    -ms-transform: matrix( 0.82502391414434,0,0,0.82330528088085,0,0);
+    position: absolute;
+    left: 124.411px;
+    top: 1496.008px;
+    z-index: 44;
+  }
+  .pricing_hr_gold {
+    background-image: url("pricing hr gold.png");
+    opacity: 0.529;
+    position: absolute;
+    left: 6px;
+    top: 1423px;
+    width: 1356px;
+    height: 1px;
+    z-index: 43;
+  }
+  .PRICING_header {
+    font-size: 35px;
+    font-family: "Helvetica";
+    color: rgb(238, 184, 0);
+    font-weight: bold;
+    text-transform: uppercase;
+    line-height: 2.061;
+    text-align: right;
+    -moz-transform: matrix( 1.07576939841457,0,0,1.07351349632795,0,0);
+    -webkit-transform: matrix( 1.07576939841457,0,0,1.07351349632795,0,0);
+    -ms-transform: matrix( 1.07576939841457,0,0,1.07351349632795,0,0);
+    position: absolute;
+    left: 611.925px;
+    top: 1389.003px;
+    z-index: 42;
+  }
+  .Where_can_we_get_you_ {
+    font-size: 69px;
+    font-family: "Helvetica";
+    color: rgb(146, 146, 146);
+    font-weight: bold;
+    text-transform: uppercase;
+    line-height: 2.882;
+    text-align: center;
+    -moz-transform: matrix( 0.48419980925396,0,0,0.48419980925396,0,0);
+    -webkit-transform: matrix( 0.48419980925396,0,0,0.48419980925396,0,0);
+    -ms-transform: matrix( 0.48419980925396,0,0,0.48419980925396,0,0);
+    position: absolute;
+    left: 545.44px;
+    top: 688.799px;
+    z-index: 41;
+  }
+  .tourist_img {
+    background-image: url("tourist img.png");
+    opacity: 0.612;
+    position: absolute;
+    left: 6px;
+    top: 786px;
+    width: 1354px;
+    height: 166px;
+    z-index: 40;
+  }
+  .Pay___enjoy_the_ride_experience {
+    font-size: 27px;
+    font-family: "Helvetica";
+    color: rgb(0, 0, 0);
+    line-height: 1.208;
+    text-align: center;
+    -moz-transform: matrix( 0.72437431511945,0,0,0.72276032247976,0,0);
+    -webkit-transform: matrix( 0.72437431511945,0,0,0.72276032247976,0,0);
+    -ms-transform: matrix( 0.72437431511945,0,0,0.72276032247976,0,0);
+    position: absolute;
+    left: 1024.761px;
+    top: 1274.59px;
+    width: 186.794px;
+    height: 57.619px;
+    z-index: 39;
+  }
+  .how_it_works_e3 {
+    border-radius: 50%;
+    background-color: rgb(0, 0, 0);
+    position: absolute;
+    left: 1049px;
+    top: 1058px;
+    width: 165px;
+    height: 163px;
+    z-index: 37;
+  }
+  .Book_a_car__Experience_Right_away {
+    font-size: 27px;
+    font-family: "Helvetica";
+    color: rgb(0, 0, 0);
+    line-height: 1.208;
+    text-align: center;
+    -moz-transform: matrix( 0.72437431511945,0,0,0.72276032247976,0,0);
+    -webkit-transform: matrix( 0.72437431511945,0,0,0.72276032247976,0,0);
+    -ms-transform: matrix( 0.72437431511945,0,0,0.72276032247976,0,0);
+    position: absolute;
+    left: 575.265px;
+    top: 1272.09px;
+    width: 276.176px;
+    height: 57.619px;
+    z-index: 35;
+  }
+  .Create_a_Profile_Online___Proceed_as_a_guest {
+    font-size: 27px;
+    font-family: "Helvetica";
+    color: rgb(0, 0, 0);
+    line-height: 1.208;
+    text-align: center;
+    -moz-transform: matrix( 0.72437431511945,0,0,0.72276032247976,0,0);
+    -webkit-transform: matrix( 0.72437431511945,0,0,0.72276032247976,0,0);
+    -ms-transform: matrix( 0.72437431511945,0,0,0.72276032247976,0,0);
+    position: absolute;
+    left: 149.919px;
+    top: 1265.59px;
+    width: 278.803px;
+    height: 57.619px;
+    z-index: 34;
+  }
+  .how_it_works_e2 {
+    border-radius: 50%;
+    background-color: rgb(0, 0, 0);
+    position: absolute;
+    left: 632px;
+    top: 1058px;
+    width: 164px;
+    height: 163px;
+    z-index: 32;
+  }
+  .how_it_works_e1 {
+    border-radius: 50%;
+    background-color: rgb(0, 0, 0);
+    position: absolute;
+    left: 212px;
+    top: 1058px;
+    width: 164px;
+    height: 163px;
+    z-index: 31;
+  }
+  .HOW_IT_WORKS {
+    font-size: 44px;
+    font-family: "Helvetica";
+    color: rgb(81, 81, 81);
+    font-weight: bold;
+    text-transform: uppercase;
+    line-height: 1.639;
+    text-align: right;
+    -moz-transform: matrix( 0.81475791997888,0,0,0.81304936227638,0,0);
+    -webkit-transform: matrix( 0.81475791997888,0,0,0.81304936227638,0,0);
+    -ms-transform: matrix( 0.81475791997888,0,0,0.81304936227638,0,0);
+    position: absolute;
+    left: 560.099px;
+    top: 977.49px;
+    z-index: 30;
+  }
+  .how_it_works_yellow_hr {
+    background-color: rgb(255, 198, 47);
+    opacity: 0.161;
+    position: absolute;
+    left: -266px;
+    top: 1142px;
+    width: 1689px;
+    height: 3px;
+    z-index: 29;
+  }
+  .how_it_works_bg {
+    background-color: rgb(235, 235, 235);
+    position: absolute;
+    left: -80px;
+    top: 952px;
+    width: 1461px;
+    height: 412px;
+    z-index: 28;
+  }
+  .Layer_5 {
+    background-image: url("Layer 5.png");
+    position: absolute;
+    left: 328px;
+    top: 295px;
+    width: 22px;
+    height: 21px;
+    z-index: 27;
+  }
+  .we_get_you_there_yellow_underline {
+    background-image: url("we get you there yellow underline.png");
+    position: absolute;
+    left: 167px;
+    top: 304px;
+    width: 158px;
+    height: 7px;
+    z-index: 26;
+  }
+  .We_Get__you_There {
+    font-size: 72px;
+    font-family: "Museo";
+    color: rgb(255, 255, 255);
+    text-transform: uppercase;
+    line-height: 1;
+    text-align: right;
+    -moz-transform: matrix( 0.66924147321168,0,0,0.66546450154534,0,0);
+    -webkit-transform: matrix( 0.66924147321168,0,0,0.66546450154534,0,0);
+    -ms-transform: matrix( 0.66924147321168,0,0,0.66546450154534,0,0);
+    position: absolute;
+    left: 93.282px;
+    top: 241.301px;
+    z-index: 25;
+  }
+  .signup_cursor_pointer {
+    background-image: url("signup cursor pointer.png");
+    position: absolute;
+    left: 1262px;
+    top: 68px;
+    width: 29px;
+    height: 35px;
+    z-index: 24;
+  }
+  .pricing_cursor_pointer {
+    background-image: url("pricing cursor pointer.png");
+    position: absolute;
+    left: 762px;
+    top: 70px;
+    width: 29px;
+    height: 35px;
+    z-index: 23;
+  }
+  .nav_anchor_select {
+    background-color: rgb(255, 199, 9);
+    position: absolute;
+    left: 752px;
+    top: 83px;
+    width: 44px;
+    height: 2px;
+    z-index: 22;
+  }
+  .carbetween_shadow {
+    background-image: url("carbetween shadow.png");
+    position: absolute;
+    left: 505px;
+    top: 271px;
+    width: 833px;
+    height: 424px;
+    z-index: 21;
+  }
+  .round_button_white_outline {
+    border-width: 0.81px;
+    border-color: rgb(255, 255, 255);
+    border-style: solid;
+    position: absolute;
+    left: 1160px;
+    top: 56px;
+    width: 70px;
+    height: 28px;
+    z-index: 20;
+  }
+  .Log_in {
+    font-size: 16px;
+    font-family: "Helvetica";
+    color: rgb(251, 251, 251);
+    text-transform: uppercase;
+    line-height: 0.524;
+    text-align: center;
+    -moz-transform: matrix( 0.90885039684521,0,0,0.9233661504972,0,0);
+    -webkit-transform: matrix( 0.90885039684521,0,0,0.9233661504972,0,0);
+    -ms-transform: matrix( 0.90885039684521,0,0,0.9233661504972,0,0);
+    position: absolute;
+    left: 1168.477px;
+    top: 66.808px;
+    z-index: 19;
+  }
+  .Sign_up {
+    font-size: 16px;
+    font-family: "Helvetica";
+    color: rgb(1, 0, 0);
+    text-transform: uppercase;
+    line-height: 0.524;
+    text-align: center;
+    -moz-transform: matrix( 0.90885039684521,0,0,0.9233661504972,0,0);
+    -webkit-transform: matrix( 0.90885039684521,0,0,0.9233661504972,0,0);
+    -ms-transform: matrix( 0.90885039684521,0,0,0.9233661504972,0,0);
+    position: absolute;
+    left: 1241.642px;
+    top: 66.808px;
+    z-index: 18;
+  }
+  .round_button_white_select {
+    background-color: rgb(255, 255, 255);
+    position: absolute;
+    left: 1235px;
+    top: 56px;
+    width: 78px;
+    height: 28px;
+    z-index: 17;
+  }
+  .FAQ {
+    font-size: 16px;
+    font-family: "Helvetica";
+    color: rgb(251, 251, 251);
+    text-transform: uppercase;
+    line-height: 0.524;
+    text-align: center;
+    -moz-transform: matrix( 0.95637198622273,0,0,0.95634351301496,0,0);
+    -webkit-transform: matrix( 0.95637198622273,0,0,0.95634351301496,0,0);
+    -ms-transform: matrix( 0.95637198622273,0,0,0.95634351301496,0,0);
+    position: absolute;
+    left: 1092.943px;
+    top: 66.808px;
+    z-index: 16;
+  }
+  .Experiences {
+    font-size: 16px;
+    font-family: "Helvetica";
+    color: rgb(251, 251, 251);
+    text-transform: uppercase;
+    line-height: 0.524;
+    text-align: center;
+    -moz-transform: matrix( 0.95637198622273,0,0,0.95634351301496,0,0);
+    -webkit-transform: matrix( 0.95637198622273,0,0,0.95634351301496,0,0);
+    -ms-transform: matrix( 0.95637198622273,0,0,0.95634351301496,0,0);
+    position: absolute;
+    left: 956.571px;
+    top: 66.808px;
+    z-index: 15;
+  }
+  .Book_Now {
+    font-size: 16px;
+    font-family: "Helvetica";
+    color: rgb(251, 251, 251);
+    text-transform: uppercase;
+    line-height: 0.524;
+    text-align: center;
+    -moz-transform: matrix( 0.95637198622273,0,0,0.95634351301496,0,0);
+    -webkit-transform: matrix( 0.95637198622273,0,0,0.95634351301496,0,0);
+    -ms-transform: matrix( 0.95637198622273,0,0,0.95634351301496,0,0);
+    position: absolute;
+    left: 838.959px;
+    top: 66.808px;
+    z-index: 14;
+  }
+  .Pricing {
+    font-size: 16px;
+    font-family: "Helvetica";
+    color: rgb(255, 199, 9);
+    text-transform: uppercase;
+    line-height: 0.524;
+    text-align: center;
+    -moz-transform: matrix( 0.95637198622273,0,0,0.95634351301496,0,0);
+    -webkit-transform: matrix( 0.95637198622273,0,0,0.95634351301496,0,0);
+    -ms-transform: matrix( 0.95637198622273,0,0,0.95634351301496,0,0);
+    position: absolute;
+    left: 740.572px;
+    top: 66.808px;
+    z-index: 13;
+  }
+  .How_it_works {
+    font-size: 16px;
+    font-family: "Helvetica";
+    color: rgb(251, 251, 251);
+    text-transform: uppercase;
+    line-height: 0.524;
+    text-align: center;
+    -moz-transform: matrix( 0.95637198622273,0,0,0.95634351301496,0,0);
+    -webkit-transform: matrix( 0.95637198622273,0,0,0.95634351301496,0,0);
+    -ms-transform: matrix( 0.95637198622273,0,0,0.95634351301496,0,0);
+    position: absolute;
+    left: 585.653px;
+    top: 66.808px;
+    z-index: 12;
+  }
+  .carbetween_shadow_effect {
+    background-image: url("carbetween shadow effect.png");
+    opacity: 0.481;
+    position: absolute;
+    left: 605px;
+    top: 377px;
+    width: 688px;
+    height: 338px;
+    z-index: 11;
+  }
+  .carbetween_car {
+    background-image: url("carbetween car.png");
+    position: absolute;
+    left: 616px;
+    top: 377px;
+    width: 664px;
+    height: 338px;
+    z-index: 10;
+  }
+  .bg_color_gold {
+    background-image: url("bg color gold.png");
+    opacity: 0.272;
+    position: absolute;
+    left: 0px;
+    top: 31px;
+    width: 1366px;
+    height: 598px;
+    z-index: 8;
+  }
+  .bg_color_dark {
+    background-image: url("bg color dark.png");
+    opacity: 0.754;
+    position: absolute;
+    left: -11px;
+    top: -1px;
+    width: 1378px;
+    height: 627px;
+    z-index: 7;
+  }
+  .bg_main {
+    background-color: rgb(0, 0, 0);
+    position: absolute;
+    left: -18px;
+    top: -1px;
+    width: 1398px;
+    height: 584px;
+    z-index: 5;
+  }
+  .Layer_1 {
+    background-image: url("Layer 1.png");
+    position: absolute;
+    left: 0px;
+    top: -1px;
+    width: 0px;
+    height: 0px;
+    z-index: 4;
+  }
+  .Rectangle_13 {
+    background-color: rgba(235, 235, 235, 0.529);
+    box-shadow: 0px 1px 40px 0px rgba(0, 0, 0, 0.24);
+    position: absolute;
+    left: 496px;
+    top: 1479px;
+    width: 390px;
+    height: 402px;
+    z-index: 3;
+  }
+  
