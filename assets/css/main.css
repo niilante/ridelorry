@@ -285,6 +285,9 @@ div header nav div ul a:hover {
         border: 1px solid rgba(248, 249, 250, 0.75);
     }
 
+
+    
+
 /* End Buttons */
 
 
@@ -292,57 +295,8 @@ div header nav div ul a:hover {
 
 /* FAQ */
 
-.login-container{
-    margin-top: 5%;
-    /* margin-bottom: 5%; */
-    background-image: url(../img/bgglobe.png);
-    
-    background-repeat: no-repeat;
-    background-size: cover;
-}
-.login-logo{
-    position: relative;
-    margin-left: -41.5%;
-}
-} */
-.login-form-1{
-    padding: 9%;
-    background:#929292;
-    box-shadow: 0 5px 8px 0 rgba(0, 0, 0, 0.2), 0 9px 26px 0 rgba(0, 0, 0, 0.19);
-}
-.login-form-1 h3{
-    text-align: center;
-    margin-bottom:12%;
-    color:#fff;
-}
-.login-form-2{
-    padding: 9%;
-    background-image: url(../img/bgglobe.png);
-    box-shadow: 0 5px 8px 0 rgba(0, 0, 0, 0.2), 0 9px 26px 0 rgba(0, 0, 0, 0.19);
-}
-.login-form-2 h3{
-    text-align: center;
-    margin-bottom:12%;
-    color: #474747;
-}
-.btnSubmit{
-    font-weight: 600;
-    width: 50%;
-    color: #282726;
-    background-color: #fff;
-    border: none;
-    border-radius: 1.5rem;
-    padding:2%;
-}
-.btnForgetPwd{
-    color: #fff;
-    font-weight: 600;
-    text-decoration: none;
-}
-.btnForgetPwd:hover{
-    text-decoration:none;
-    color:#fff;
-}
+
+
 
 /* END FAQ */
 
@@ -502,8 +456,8 @@ div header nav div ul a:hover {
       
 
       .wearehere {
-        font-size: 72px;
-        font-family: "Museo700";
+        font-size: 68px;
+        font-family: "Museo Sans W01 700 Italic";
         font-style: italic;
         color: rgb(255, 255, 255);
         text-transform: uppercase;
@@ -515,7 +469,7 @@ div header nav div ul a:hover {
         -ms-transform: matrix( 0.66924147321168,0,0,0.66546450154534,0,0);
         position: absolute;
         left: 43.282px;
-        top: 141.301px;
+        top: 121.301px;
         width: 100;
         z-index: 25;
 /* 
@@ -538,15 +492,17 @@ div header nav div ul a:hover {
        */
 
       .bgcolorgold {
-        background-image: url("../img/recnew.png");
+        background-image: url("../img/swipe.png");
         background-repeat: no-repeat;
-        opacity: 1.272;
         position: absolute;
-        /* left: 0px;
-        top: 31px;
-        width: 1366px;
-        height: 598px; */
-        /* z-index: 8; */
+        left: 8%;
+        width: 184px;
+        padding: 0%;
+        height: 22px;
+        
+        position: absolute;
+        
+        top: 280px;
       }
     
       
