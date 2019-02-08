@@ -255,7 +255,9 @@ span{
   transition:0.5s;
 } */
 .card:hover {
-  box-shadow:0 30px 70px rgba(0,0,0,.2);
+  -webkit-box-shadow: 1px 0px 67px -5px rgba(0,0,0,0.32);
+  -moz-box-shadow: 1px 0px 67px -5px rgba(0,0,0,0.32);
+  box-shadow: 1px 0px 67px -5px rgba(0,0,0,0.32);
 }
 .card .box {
   position:absolute;
@@ -416,6 +418,40 @@ div header nav div ul a:hover {
 
 /* End Buttons */
 
+
+/* EXPERIENCES */
+
+.rating-star{
+	position: relative;
+	left:45%;
+	right:45%;
+	transform: translate(-75%,0%);
+}
+.rating-star > input { display: none; } 
+.rating-star > label:before { 
+  margin: 5px;
+  font-size:18px;
+  font-family: FontAwesome;
+  display: inline-block;
+  content: "\f005";
+}
+.rating-star > .half:before { 
+  content: "\f089";
+  position: absolute;
+}
+.rating-star > label { 
+  color: #ddd; 
+ float: right; 
+}
+.rating-star > input:checked ~ label,
+.rating-star:not(:checked) > label:hover,
+.rating-star:not(:checked) > label:hover ~ label { color: #FFD700;  }
+.rating-star > input:checked + label:hover,
+.rating-star > input:checked ~ label:hover,
+.rating-star > label:hover ~ input:checked ~ label,
+.rating-star > input:checked ~ label:hover ~ label { color: #FFED85;  } 
+
+/* END EXPERIENCES */
 
 
 
