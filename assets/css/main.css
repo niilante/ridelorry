@@ -157,6 +157,22 @@ span{
 
 
 /* FIND A CAR */
+.findcartitle{
+  /* border: 1px black solid; */
+  position: relative;
+  margin-left: 1em; 
+  margin-bottom: -1rem;
+  padding: 0.2em 0.8em;
+  background-color: #ebebeb;
+  width: 362px;
+  font-weight: bolder;
+  left: 55px;
+  text-align: center;
+  /* box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.2), 0 5px 5px 0 rgba(0, 0, 0, 0.24); */
+  z-index: 4;
+  /* place-items: start; */
+
+}
 
 .findacar {
     width: 360px;
@@ -179,7 +195,7 @@ span{
     background: #FFFFFF;
     max-width: 360px;
     margin: 0 80px;
-    padding: 45px;
+    padding: 25px;
     /* text-align: center; */
     box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.2), 0 5px 5px 0 rgba(0, 0, 0, 0.24);
   }
@@ -212,6 +228,7 @@ span{
     font-family: "Roboto", sans-serif;
     text-transform: uppercase;
     outline: 0;
+    font-weight: bold;
     /* text-color: black; */
     background: #ffc709;
     /* width: 100%; */
@@ -421,6 +438,24 @@ div header nav div ul a:hover {
 
 /* EXPERIENCES */
 
+.extitle{
+  /* border: 1px black solid; */
+  position: relative;
+  margin-left: 1em; 
+  margin-bottom: -1rem;
+  padding: 0.2em 0.8em;
+  top: -30px;
+  background-color: #ffffff;
+  width: 602px;
+  font-weight: bolder;
+  left: 300px;
+  text-align: center;
+  /* box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.2), 0 5px 5px 0 rgba(0, 0, 0, 0.24); */
+  z-index: 4;
+  /* place-items: start; */
+
+}
+
 .rating-star{
 	position: relative;
 	left:45%;
@@ -455,9 +490,77 @@ div header nav div ul a:hover {
 
 
 
+/* BG IMAGE BETWEEN EXP AND FAQ */
+
+/* .bet-img {
+  content: "";
+  background: url(../img/bgglobe.png);
+  opacity: 0.5;
+  /* top: 0;
+  left: 0; */
+  /* bottom: 0;
+  right: 0; */
+  /* position: absolute;
+  z-index: -1;   */
+/* } */ 
+
+/* END IMAGE BETWEEN EXP AND FAQ */
+
+
+
+
 /* FAQ */
 
+.scroltum {
+  height:350px;
+  overflow-y: scroll;
+  width: 15px;
+}
 
+#scroltumpa::-webkit-scrollbar-track
+{
+	-webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3);
+	border-radius: 10px;
+	background-color: #F5F5F5;
+}
+
+#scroltumpa::-webkit-scrollbar
+{
+	width: 9px;
+	background-color: #808080;
+}
+
+#scroltumpa::-webkit-scrollbar-thumb
+{
+	border-radius: 10px;
+	-webkit-box-shadow: inset 0 0 6px rgba(0,0,0,.3);
+	background-color: #D62929;
+}
+
+.nav-pills .nav-link {
+  border-radius: 0rem;
+}
+
+.nav-pills .nav-link.active, .nav-pills .show > .nav-link {
+  background-color: #bbbaba;
+}
+
+.lisitemap-section a {
+  padding: 8px;
+  font-size: 18px;
+  /* text-align: center; */
+  /* background: #f12711;  fallback for old browsers */
+  /* background: -webkit-linear-gradient(to right, #f5af19, #f12711);  Chrome 10-25, Safari 5.1-6 */
+  /* background: linear-gradient(to right, #f5af19, #f12711); W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  list-style: none;
+  margin: 1px;
+}
+.lisitemap-section a {
+  color: #fff;
+}
+.lisitemap-section a:hover {
+  background-color: #bbbaba;
+}
 
 
 /* END FAQ */
@@ -632,6 +735,54 @@ div header nav div ul a:hover {
         position: absolute;
         left: 43.282px;
         top: 121.301px;
+        width: 100;
+        z-index: 25;
+/* 
+        background-image: url("../img/recnew.png");
+        background-repeat: no-repeat;
+        background-origin: content-box */
+      }
+
+
+      .anywhere {
+        font-size: 98px;
+        font-family: "Museo700-Italic";
+        font-style: italic;
+        color: #eeb800;
+        text-transform: uppercase;
+        line-height: initial;
+        text-align: left;
+        letter-spacing: 0.00039548em;
+        -moz-transform: matrix( 0.66924147321168,0,0,0.66546450154534,0,0);
+        -webkit-transform: matrix( 0.66924147321168,0,0,0.66546450154534,0,0);
+        -ms-transform: matrix( 0.66924147321168,0,0,0.66546450154534,0,0);
+        position: absolute;
+        left: 43.282px;
+        top: 2000.301px;
+        width: 100;
+        z-index: 25;
+/* 
+        background-image: url("../img/recnew.png");
+        background-repeat: no-repeat;
+        background-origin: content-box */
+      }
+
+
+      .lowestprice {
+        font-size: 28px;
+        font-family: "Museo500";
+        /* font-style: italic; */
+        color: #ffffff;
+        /* text-transform: uppercase; */
+        line-height: initial;
+        text-align: left;
+        letter-spacing: 0.00039548em;
+        -moz-transform: matrix( 0.66924147321168,0,0,0.66546450154534,0,0);
+        -webkit-transform: matrix( 0.66924147321168,0,0,0.66546450154534,0,0);
+        -ms-transform: matrix( 0.66924147321168,0,0,0.66546450154534,0,0);
+        position: absolute;
+        left: 63.282px;
+        top: 2190.301px;
         width: 100;
         z-index: 25;
 /* 

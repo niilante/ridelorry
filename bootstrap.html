@@ -40,7 +40,7 @@
 									<li><a href="#booknow">BOOK NOW</a></li>
 									<li><a href="#experiences">EXPERIENCES</a></li>
 									<li><a href="#faq">FAQ</a></li>
-									<li><a href="#contact">Contact</a></li>
+									<!-- <li><a href="#contact">Contact</a></li> -->
 									<button type="button" class="btn btn-outline-secondary" style="border-radius: 1.5em; color: #ffffff; border-color: #ffffff; ">LOGIN</button>
 									<button type="button" class="btn btn-outline-secondary" style="border-radius: 1.5em; color: #ffffff; border-color: #ffffff; ">SIGN UP</button>
 							 </ul>
@@ -58,12 +58,14 @@
 				<!-- FIND A CAR -->
 
 					<div class="findacar float-none">
+						<legend class="findcartitle" style="margin-top:15px"><img src="assets/img/find a car car img.png" alt="fcar">
+							CARS</legend>
 						<div class="form">
 							<form class="register-form">
-							<label for="first_name">Pick-up location</label>
+							<label style="margin-left: 0.8rem" for="first_name">Pick-up location</label>
 							<input type="text" placeholder="Enter pickup location"/>
 							<input type="text" placeholder="Enter destination"/>
-							<label for="first_name">Number of Passengers</label>
+							<label style="margin-left: 0.8rem" for="first_name">Number of Passengers</label>
 							<!-- <input type="text" placeholder="email address"/> -->
 							<select id="nPassengers" class="form-control">
 								<option selected>Enter of Passengers</option>
@@ -207,7 +209,10 @@
 
 					<!-- GettyImages -->
 						<div class="row">
-
+							<h1 class="anywhere" style="font-style: italic;">ANYWHERE, <br>ANYTIME</h1>
+							<p class="lowestprice">Get the Lowest rate with 
+								<img src="assets/img/xlorry.png" alt="xlorry">
+							</p>
 							<div id="booknow">
 								<img src="assets/img/getty.jpg" width="100%" alt="getty">
 								<!-- <div class="textdd"> oiuflyo</div> -->
@@ -235,9 +240,9 @@
 						<br>
 						<br>
 						<br>
-						<div class="boderexp">
+						<div class="boderexp flexbox">
 							
-								<h2 style="text-align:center;"><b>EXPERIENCES</b></h2>
+								<h2 style="text-align:center;" class="extitle"><b>EXPERIENCES</b></h2>
 								
 								<div class="col-md-4 float-right">
 										<div class="card mb-4 border-dark" style="border-radius:0rem; border:none">
@@ -394,12 +399,56 @@
 						<br>
 				</div>
 
+
+
+
 			<!-- FAQs -->
+			<div>	
+				<h3 style="text-align: center; font-family: Museo500; font-weight: 900; font-size: 2.3rem;">FREQUENTLY ASKED QUESTIONS</h3>
+				<br>
+				<br>
+				<div class="container-fluid center" style="background-color: #808080; padding: 35px;" >
+						<div class="row">
+								<div class="col-lg-6 scroltum" id="scroltumpa" style="padding-left: 100px;"> 
+										<div class="nav flex-column nav-pills lisitemap-section" id="v-pills-tab" role="tablist" aria-orientation="vertical">
+												
+											  <a class="nav-link active" id="v-pills-home-tab" data-toggle="pill" href="#v-pills-home" role="tab" aria-controls="v-pills-home" aria-selected="true">I CAN'T SIGN IN OR REQUEST A RIDE</a>
+												<a class="nav-link" id="v-pills-profile-tab" data-toggle="pill" href="#v-pills-profile" role="tab" aria-controls="v-pills-profile" aria-selected="false">USING PROMOS AND CREDITS</a>
+												<a class="nav-link" id="v-pills-messages-tab" data-toggle="pill" href="#v-pills-messages" role="tab" aria-controls="v-pills-messages" aria-selected="false">HOW LONG SHOULD I WAIT FOR A RIDER?</a>
+												<a class="nav-link" id="v-pills-settings-tab" data-toggle="pill" href="#v-pills-settings" role="tab" aria-controls="v-pills-settings" aria-selected="false">UPDATING A PAYMENT METHOD ON YOUR ACCOUNT</a>
+												<a class="nav-link" id="v-pills-home-tab" data-toggle="pill" href="#v-pills-home" role="tab" aria-controls="v-pills-home" aria-selected="true">WHY WAS MY PAYMENT DECLINED?</a>
+												<a class="nav-link" id="v-pills-profile-tab" data-toggle="pill" href="#v-pills-profile" role="tab" aria-controls="v-pills-profile" aria-selected="false">WHEN WILL THE POLICY NOT PAY OUT?</a>
+										</div>
+								</div>
 
+								
 
-			
+								<div class="col-lg-6">
+										<div class="tab-content" id="v-pills-tabContent">
+												<div class="tab-pane fade show active" id="v-pills-home" role="tabpanel" aria-labelledby="v-pills-home-tab">...</div>
+												<div class="tab-pane fade" id="v-pills-profile" role="tabpanel" aria-labelledby="v-pills-profile-tab">...</div>
+												<div class="tab-pane fade" id="v-pills-messages" role="tabpanel" aria-labelledby="v-pills-messages-tab">
+													<h3>HOW LONG SHOULD I WAIT <br> FOR A RIDER?</h3>
+													<br>
+													<p>
+														Lorem ipsum dolor sit amet consectetur adipisicing elit. Quod sunt numquam quis et dolorum? 
+														Quo qui suscipit dolorem repudiandae repellendus ipsum enim quasi nobis, 
+														voluptatum laudantium fuga quas, illum distinctio.
+													</p>
 
-		<!-- END FAQ -->
+												</div>
+												<div class="tab-pane fade" id="v-pills-settings" role="tabpanel" aria-labelledby="v-pills-settings-tab">...</div>
+												<div class="tab-pane fade" id="v-pills-home" role="tabpanel" aria-labelledby="v-pills-home-tab">...</div>
+												<div class="tab-pane fade" id="v-pills-profile" role="tabpanel" aria-labelledby="v-pills-profile-tab">...</div>
+										</div>
+										<br>
+								</div>
+						</div>
+					
+				</div>
+			</div>
+
+	     <!-- END FAQ -->
 
 
 	<!-- Beginning of Footer -->
