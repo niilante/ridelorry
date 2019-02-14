@@ -527,7 +527,7 @@ div header nav div ul a:hover {
 #scroltumpa::-webkit-scrollbar
 {
 	width: 9px;
-	background-color: #808080;
+	background-color: #929292;
 }
 
 #scroltumpa::-webkit-scrollbar-thumb
@@ -548,6 +548,7 @@ div header nav div ul a:hover {
 .lisitemap-section a {
   padding: 8px;
   font-size: 18px;
+  font-family: Helvetica;
   /* text-align: center; */
   /* background: #f12711;  fallback for old browsers */
   /* background: -webkit-linear-gradient(to right, #f5af19, #f12711);  Chrome 10-25, Safari 5.1-6 */
@@ -559,7 +560,7 @@ div header nav div ul a:hover {
   color: #fff;
 }
 .lisitemap-section a:hover {
-  background-color: #bbbaba;
+  background-color: #9d9d9d;
 }
 
 
